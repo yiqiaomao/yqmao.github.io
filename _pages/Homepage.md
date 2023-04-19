@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Homepage"
-excerpt: "About"
+title: "孙中川"
+excerpt: "孙中川"
 author_profile: true
 ---
 
