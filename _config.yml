@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhongchuan Sun | Homepage"
+title                    : "Zhongchuan Sun"
 title_separator          : "-"
 name                     : &name "Zhongchuan Sun"
 description              : &description "Zhongchuan Sun"
