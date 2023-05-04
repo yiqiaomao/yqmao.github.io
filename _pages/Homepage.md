@@ -20,19 +20,19 @@ Publications
 
 - Attentive Adversarial Collaborative Filtering.  
 **Zhongchuan Sun**, Bin Wu, Shizhe Hu, Mingming Zhang, and Yangdong Ye.  
-IEEE IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2023. (中科院1区 SCI, CCF B, IF: 11.471)
+IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2023. (中科院1区 SCI, IF: 11.471)
 \[[pdf](https://doi.org/10.1109/TSMC.2023.3241083)\]
 \[[code](https://github.com/ZhongchuanSun/AACF)\]
 
 - Learning from the Future: Light Cone Modeling for Sequential Recommendation.  
 **Zhongchuan Sun**, Bin Wu, Yifan Chen, and Yangdong Ye.  
-IEEE IEEE Transactions on Cybernetics (TCYB), 2022. (中科院1区 SCI, CCF B, IF: 19.118)
+IEEE Transactions on Cybernetics (TCYB), 2022. (中科院1区 SCI, IF: 19.118)
 \[[pdf](https://doi.org/10.1109/TCYB.2022.3222259)\]
 \[[code](https://github.com/ZhongchuanSun/learning_from_the_future)\]
 
 - Sequential Graph Collaborative Filtering.  
 **Zhongchuan Sun**, Bin Wu, Youwei Wang, and Yangdong Ye.  
-Information Sciences, 2022. (中科院1区 SCI, CCF B, IF: 8.233)
+Information Sciences, 2022. (中科院1区 SCI, IF: 8.233)
 \[[pdf](https://doi.org/10.1016/j.ins.2022.01.064)\]
 \[[code](https://github.com/ZhongchuanSun/SGAT)\]
 
@@ -44,7 +44,7 @@ Expert Systems With Applications, 2019. (中科院1区 SCI, IF: 8.665)
 
 - ATM: An Attentive Translation Model for Next-Item Recommendation.  
 Bin Wu, Xiangnan He, **Zhongchuan Sun**, Liang Chen, and Yangdong Ye.  
-IEEE IEEE Transactions on Industrial Informatics (TII), 2020. (中科院1区 SCI, IF: 11.648)
+IEEE Transactions on Industrial Informatics (TII), 2020. (中科院1区 SCI, IF: 11.648)
 \[[pdf](https://doi.org/10.1109/TII.2019.2947174)\]
 
 - Gating Augmented Capsule Network for Sequential Recommendation.  
@@ -55,12 +55,12 @@ Knowledge-based Systems, 2022. (中科院1区 SCI, IF: 8.139)
 
 - Fine-grained Modeling User Interests for Sequential Recommendation.  
 Qi Zhang, Bin Wu, **Zhongchuan Sun**, and Yangdong Ye.  
-SCIENTIA SINICA Informationis (in Chinese), 2022. (CCF T1)
+SCIENTIA SINICA Informationis (in Chinese), 2022.
 \[[pdf](https://doi.org/10.1360/SSI-2021-0026)\]
 
 - Co-pairwise Ranking Model for Item Recommendation.  
 Bin Wu, Yun Chen, **Zhongchuan Sun**, and Yangdong Ye.  
-Journal on Communications (in Chinese), 2019. (CCF T1)
+Journal on Communications (in Chinese), 2019.
 \[[pdf](https://doi.org/10.11959/j.issn.1000-436x.2019137)\]
 
 Patents
