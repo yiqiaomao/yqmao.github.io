@@ -8,8 +8,7 @@ author_profile: true
 About
 ---
 
-I am a PhD candidate supervised by [Prof. Yangdong Ye](
-http://www5.zzu.edu.cn/mlis/) at the School of Computer and Artificial Intelligence of Zhengzhou University, China.
+I am currently an associate professor in the School of Computer Science and Technology, Zhengzhou University of Light Industry. I received the Ph.D. degree advised by [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) from Zhengzhou University in 2023.
 My research focuses on developing novel machine learning and deep learning methods for recommender systems, which aim to provide personalized and intelligent services for users based on their preferences and behaviors.
 I have published several papers in top journals including IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transaction on Industrial Informatics, Information Sciences, and SCIENTIA SINICA Informationis (in Chinese).
 
@@ -41,6 +40,21 @@ Information Sciences, 2022. (中科院1区 SCI, IF: 8.233)
 Expert Systems With Applications, 2019. (中科院1区 SCI, IF: 8.665)
 \[[pdf](https://doi.org/10.1016/j.eswa.2018.10.024)\]
 \[[code](https://github.com/ZhongchuanSun/APL)\]
+
+- Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction.  
+Youwei Wang, Ying Wang, **Zhongchuan Sun**, Yinghao Li, Shizhe Hu, and Yangdong Ye.  
+Information Processing \& Management, 2023. (中科院1区 SCI, IF: 8.6)
+\[[pdf](https://doi.org/10.1016/j.ipm.2023.103511)\]
+
+- Graph Gating-mixer for Sequential Recommendation.  
+Bin Wu, Xun Su, Jing Liang, **Zhongchuan Sun**, Lihong Zhong, and Yangdong Ye.  
+Expert Systems With Applications, 2023. (中科院1区 SCI, IF: 8.5)
+\[[code](https://github.com/wubinzzu/GMRec)\]
+
+- Self-Supervised Temporal Autoencoder for Egocentric Action Segmentation.  
+Mingming Zhang, Dong liu, Shizhe Hu, Xiaoqiang Yan, **Zhongchuan Sun**, and Yangdong Ye.  
+Engineering Applications of Artificial Intelligence, 2023. (中科院2区 SCI, IF: 8.0)
+\[[pdf](https://doi.org/10.1016/j.engappai.2023.107092)\]
 
 - ATM: An Attentive Translation Model for Next-Item Recommendation.  
 Bin Wu, Xiangnan He, **Zhongchuan Sun**, Liang Chen, and Yangdong Ye.  
