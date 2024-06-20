@@ -1,98 +1,80 @@
 ---
 permalink: /
-title: "孙中川"
-excerpt: "孙中川"
+title: "毛奕桥"
+excerpt: "毛奕桥"
 author_profile: true
 ---
 
-About
+## About
+---
+Here is Yiqiao Mao. I am a Ph.D. candidate majoring in Software Engineering at School of Computer and Artificial Intelligence, Zhengzhou University. My main research area is Multi-modal Learning, Unsupervised Learning and Representation Learning. I have published and co-authored some research papers in several top journals and conferences.
+
+
+## Publications
 ---
 
-I am currently an associate professor in the School of Computer Science and Technology, Zhengzhou University of Light Industry. I received the Ph.D. degree advised by [Prof. Yangdong Ye](http://www5.zzu.edu.cn/mlis/) from Zhengzhou University in 2023.
-My research focuses on developing novel machine learning and deep learning methods for recommender systems, which aim to provide personalized and intelligent services for users based on their preferences and behaviors.
-I have published several papers in top journals including IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transaction on Industrial Informatics, Information Sciences, and SCIENTIA SINICA Informationis (in Chinese).
+- Contrastive Cross-Modal Clustering with Twin Network.  
+**Yiqiao Mao**, Xiaoqiang Yan, Shizhe Hu, and Yangdong Ye.  
+Pattern Recognition, 2024. (中科院1区 SCI, IF: 8.4)
+\[[pdf](https://doi.org/10.1016/j.patcog.2024.110645)\]
+\[[code](https://github.com/yiqiaomao/3CTnet)\]
 
-<!-- I am very passionate about my research and eager to learn new knowledge and skills. I hope to make original contributions to the field of recommender systems and artificial intelligence. I also enjoy collaborating with other researchers and practitioners from different backgrounds and domains. I am looking for opportunities to exchange ideas, share experiences and explore potential collaborations with peers around the world. -->
+- Memory-aware Continual Learning with Multi-modal Social Media Streams for Unsupervised Disaster Classification.  
+**Yiqiao Mao**, Xiaoqiang Yan, Zirui Hu, Xuguang Zhang, Yangdong Ye.  
+Advanced Engineering Informatics, 2024. (中科院1区 SCI, IF: 8.8)
+\[[pdf](Coming soon)\]
+\[[code](https://github.com/yiqiaomao/ProNet)\]
 
-Publications
+- ConGMC: Consistency-Guided Multimodal Clustering via Mutual Information Maximin.  
+**Yiqiao Mao**, Xiaoqiang Yan, Jiaming Liu, and Yangdong Ye.  
+IEEE Transactions on Multimedia, 2023. (中科院1区 SCI, IF: 7.3)
+\[[pdf](https://doi.org/10.1109/TMM.2023.3330093)\]  
+\[[code](https://github.com/yiqiaomao/ConGMC)\]
+
+
+- Deep Mutual Information Maxmin for Cross-modal Clustering.  
+**Yiqiao Mao**, Xiaoqiang Yan, Qiang Guo, and Yangdong Ye.
+Proceedings of the AAAI Conference on Artificial Intelligence, 2021. (CCF推荐A类会议)
+\[[pdf](https://doi.org/10.1609/aaai.v35i10.17076)\]
+\[[code](https://github.com/yiqiaomao/DMIM)\]
+
+- Multi-task Image Clustering via Deep Information Bottleneck.  
+Xiaoqiang Yan, **Yiqiao Mao**, Mingyuan Li, Yangdong Ye.
+IEEE Transactions on Cybernetics, 2023. (中科院1区 SCI, IF: 11.8)
+\[[pdf](https://doi.org/10.1109/TCYB.2023.3273535)\]
+
+- Cross-modal Clustering with Deep Correlated Information Bottleneck Method.  
+Xiaoqiang Yan, **Yiqiao Mao**, Yangdong Ye, and Hui Yu
+IEEE Transactions on Neural Networks and Learning Systems, 2023. (中科院1区 SCI, IF: 10.4)
+\[[pdf](https://doi.org/10.1109/TNNLS.2023.3269789)\]
+
+- Explanation Guided Cross-modal Social Image Clustering.  
+Xiaoqiang Yan, **Yiqiao Mao**, Yangdong Ye, Hui Yu, and Fei-Yue Wang
+Information Sciences, 2023. (中科院1区 SCI, IF: 8.1)
+\[[pdf](https://doi.org/10.1016/j.ins.2022.01.065)\]
+
+- A Bottleneck Network with Light Attention for Multimodal Clustering..  
+Jiaming Liu, **Yiqiao Mao**, Zhen Huang, and Yangdong Ye 
+Knowledge-based Systems, 2023. (中科院1区 SCI, IF: 8.1)
+\[[pdf](https://doi.org/10.1016/j.knosys.2023.111037)\]
+
+
+- Deep Multi-view Learning Methods: A Review.  
+Xiaoqiang Yan, Shizhe Hu, **Yiqiao Mao**, Yangdong Ye, and Hui Yu 
+Neurocomputing, 2021.
+\[[pdf](https://doi.org/10.1016/j.neucom.2021.03.090)\]
+
+- Heterogeneous Dual-Task Clustering with Visual-Textual Information.  
+Xiaoqiang Yan, **Yiqiao Mao**, Shizhe Hu, Yangdong Ye
+Proceedings of the SIAM International Conference on Data Mining, 2020.
+\[[pdf](https://doi.org/10.1137/1.9781611976236.74)\]
+
+## Fundings
+- 图传播IB方法的模型及传播机制研究 (62176239)， 国家自然科学基金， <br>2022-2025, 参与
+- 传播IB方法的研究 (61772475)， 国家自然科学基金， <br>2018-2021, 参与
+- 多路聚合的跨媒体模式分析与知识推理研究 (61906172)， 国家自然科学青年基金， <br>2020-2022, 参与研究
+
+
+## Honors
 ---
-
-- Attentive Adversarial Collaborative Filtering.  
-**Zhongchuan Sun**, Bin Wu, Shizhe Hu, Mingming Zhang, and Yangdong Ye.  
-IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2023. (中科院1区 SCI, IF: 11.471)
-\[[pdf](https://doi.org/10.1109/TSMC.2023.3241083)\]
-\[[code](https://github.com/ZhongchuanSun/AACF)\]
-
-- Learning from the Future: Light Cone Modeling for Sequential Recommendation.  
-**Zhongchuan Sun**, Bin Wu, Yifan Chen, and Yangdong Ye.  
-IEEE Transactions on Cybernetics (TCYB), 2022. (中科院1区 SCI, IF: 19.118)
-\[[pdf](https://doi.org/10.1109/TCYB.2022.3222259)\]
-\[[code](https://github.com/ZhongchuanSun/learning_from_the_future)\]
-
-- Sequential Graph Collaborative Filtering.  
-**Zhongchuan Sun**, Bin Wu, Youwei Wang, and Yangdong Ye.  
-Information Sciences, 2022. (中科院1区 SCI, IF: 8.233)
-\[[pdf](https://doi.org/10.1016/j.ins.2022.01.064)\]
-\[[code](https://github.com/ZhongchuanSun/SGAT)\]
-
-- APL: Adversarial Pairwise Learning for Recommender Systems.  
-**Zhongchuan Sun**, Bin Wu, Yunpeng Wu, and Yangdong Ye.  
-Expert Systems With Applications, 2019. (中科院1区 SCI, IF: 8.665)
-\[[pdf](https://doi.org/10.1016/j.eswa.2018.10.024)\]
-\[[code](https://github.com/ZhongchuanSun/APL)\]
-
-- Deep Purified Feature Mining Model for Joint Named Entity Recognition and Relation Extraction.  
-Youwei Wang, Ying Wang, **Zhongchuan Sun**, Yinghao Li, Shizhe Hu, and Yangdong Ye.  
-Information Processing \& Management, 2023. (中科院1区 SCI, IF: 8.6)
-\[[pdf](https://doi.org/10.1016/j.ipm.2023.103511)\]
-
-- Graph Gating-mixer for Sequential Recommendation.  
-Bin Wu, Xun Su, Jing Liang, **Zhongchuan Sun**, Lihong Zhong, and Yangdong Ye.  
-Expert Systems With Applications, 2023. (中科院1区 SCI, IF: 8.5)
-\[[code](https://github.com/wubinzzu/GMRec)\]
-
-- Self-Supervised Temporal Autoencoder for Egocentric Action Segmentation.  
-Mingming Zhang, Dong liu, Shizhe Hu, Xiaoqiang Yan, **Zhongchuan Sun**, and Yangdong Ye.  
-Engineering Applications of Artificial Intelligence, 2023. (中科院2区 SCI, IF: 8.0)
-\[[pdf](https://doi.org/10.1016/j.engappai.2023.107092)\]
-
-- ATM: An Attentive Translation Model for Next-Item Recommendation.  
-Bin Wu, Xiangnan He, **Zhongchuan Sun**, Liang Chen, and Yangdong Ye.  
-IEEE Transactions on Industrial Informatics (TII), 2020. (中科院1区 SCI, IF: 11.648)
-\[[pdf](https://doi.org/10.1109/TII.2019.2947174)\]
-
-- Gating Augmented Capsule Network for Sequential Recommendation.  
-Qi Zhang, Bin Wu, **Zhongchuan Sun**, and Yangdong Ye.  
-Knowledge-based Systems, 2022. (中科院1区 SCI, IF: 8.139)
-\[[pdf](https://doi.org/10.1016/j.knosys.2022.108817)\]
-\[[code](https://github.com/ieqqzhang/GAC)\]
-
-- Fine-grained Modeling User Interests for Sequential Recommendation.  
-Qi Zhang, Bin Wu, **Zhongchuan Sun**, and Yangdong Ye.  
-SCIENTIA SINICA Informationis (in Chinese), 2022.
-\[[pdf](https://doi.org/10.1360/SSI-2021-0026)\]
-
-- Co-pairwise Ranking Model for Item Recommendation.  
-Bin Wu, Yun Chen, **Zhongchuan Sun**, and Yangdong Ye.  
-Journal on Communications (in Chinese), 2019.
-\[[pdf](https://doi.org/10.11959/j.issn.1000-436x.2019137)\]
-
-Patents
----
-
-- 叶阳东, **孙中川**, 吴宾, 吴云鹏. 一种基于成对对抗训练的推荐模型的方法, 2018112651073. 已授权
-- 叶阳东, **孙中川**, 吴宾. 一种基于对抗模型的推荐方法, 2020100447222. 已授权
-
-Honors
----
-
-- National Scholarship for Graduate Students (博士研究生国家奖学金), 2022
-- Excellent Master Dissertation of Henan Province (河南省优秀硕士学位论文), 2020
-- Excellent Graduate of Henan Province (河南省优秀应届毕业生), 2019
-- Excellent Master Dissertation of Zhengzhou University (郑州大学优秀硕士学位论文), 2019
-- Excellent Graduate of Zhengzhou University (郑州大学优秀应届毕业研究生), 2019年
-- Outstanding Achievement Award of Zhengzhou University (郑州大学研究生优秀成果奖), 2018
-- National Encouragement Scholarship (国家励志奖学金), 2014 and 2015
-
----
-<div id="clustrmaps-widget"></div> <a href="https://clustrmaps.com/site/1buh7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=fSgq-ziADwd32fi1q6a6NwGp52PyfiZ1OxjNYfSR7dY"></a>
+- Outstanding Achievement Award of Zhengzhou University (郑州大学研究生优秀成果奖), 2022.
