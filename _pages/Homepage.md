@@ -34,38 +34,44 @@ IEEE Transactions on Multimedia, 2023. (中科院1区 SCI, IF: 7.3)
 
 - Deep Mutual Information Maxmin for Cross-modal Clustering.  
 **Yiqiao Mao**, Xiaoqiang Yan, Qiang Guo, and Yangdong Ye.
+  
 Proceedings of the AAAI Conference on Artificial Intelligence, 2021. (CCF推荐A类会议)
 \[[pdf](https://doi.org/10.1609/aaai.v35i10.17076)\]
 \[[code](https://github.com/yiqiaomao/DMIM)\]
 
 - Multi-task Image Clustering via Deep Information Bottleneck.  
 Xiaoqiang Yan, **Yiqiao Mao**, Mingyuan Li, Yangdong Ye.
+
 IEEE Transactions on Cybernetics, 2023. (中科院1区 SCI, IF: 11.8)
 \[[pdf](https://doi.org/10.1109/TCYB.2023.3273535)\]
 
 - Cross-modal Clustering with Deep Correlated Information Bottleneck Method.  
-Xiaoqiang Yan, **Yiqiao Mao**, Yangdong Ye, and Hui Yu
+Xiaoqiang Yan, **Yiqiao Mao**, Yangdong Ye, and Hui Yu.
+
 IEEE Transactions on Neural Networks and Learning Systems, 2023. (中科院1区 SCI, IF: 10.4)
 \[[pdf](https://doi.org/10.1109/TNNLS.2023.3269789)\]
 
 - Explanation Guided Cross-modal Social Image Clustering.  
-Xiaoqiang Yan, **Yiqiao Mao**, Yangdong Ye, Hui Yu, and Fei-Yue Wang
+Xiaoqiang Yan, **Yiqiao Mao**, Yangdong Ye, Hui Yu, and Fei-Yue Wang.
+
 Information Sciences, 2023. (中科院1区 SCI, IF: 8.1)
 \[[pdf](https://doi.org/10.1016/j.ins.2022.01.065)\]
 
-- A Bottleneck Network with Light Attention for Multimodal Clustering..  
+- A Bottleneck Network with Light Attention for Multimodal Clustering.
 Jiaming Liu, **Yiqiao Mao**, Zhen Huang, and Yangdong Ye 
 Knowledge-based Systems, 2023. (中科院1区 SCI, IF: 8.1)
 \[[pdf](https://doi.org/10.1016/j.knosys.2023.111037)\]
 
 
 - Deep Multi-view Learning Methods: A Review.  
-Xiaoqiang Yan, Shizhe Hu, **Yiqiao Mao**, Yangdong Ye, and Hui Yu 
+Xiaoqiang Yan, Shizhe Hu, **Yiqiao Mao**, Yangdong Ye, and Hui Yu.
+ 
 Neurocomputing, 2021.
 \[[pdf](https://doi.org/10.1016/j.neucom.2021.03.090)\]
 
 - Heterogeneous Dual-Task Clustering with Visual-Textual Information.  
-Xiaoqiang Yan, **Yiqiao Mao**, Shizhe Hu, Yangdong Ye
+Xiaoqiang Yan, **Yiqiao Mao**, Shizhe Hu, Yangdong Ye.
+
 Proceedings of the SIAM International Conference on Data Mining, 2020.
 \[[pdf](https://doi.org/10.1137/1.9781611976236.74)\]
 
