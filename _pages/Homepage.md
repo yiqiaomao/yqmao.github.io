@@ -53,7 +53,7 @@ Xiaoqiang Yan, **Yiqiao Mao**, Yangdong Ye, Hui Yu, and Fei-Yue Wang.<br>
 Information Sciences, 2023. (中科院1区 SCI, IF: 8.1)
 \[[pdf](https://doi.org/10.1016/j.ins.2022.01.065)\]
 
-- A Bottleneck Network with Light Attention for Multimodal Clustering.
+- A Bottleneck Network with Light Attention for Multimodal Clustering.<br>
 Jiaming Liu, **Yiqiao Mao**, Zhen Huang, and Yangdong Ye. <br>
 Knowledge-based Systems, 2023. (中科院1区 SCI, IF: 8.1)
 \[[pdf](https://doi.org/10.1016/j.knosys.2023.111037)\]
