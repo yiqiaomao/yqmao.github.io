@@ -22,7 +22,7 @@ Pattern Recognition, 2024. (中科院1区 SCI, IF: 8.4)
 - Memory-aware Continual Learning with Multi-modal Social Media Streams for Unsupervised Disaster Classification.  
 **Yiqiao Mao**, Xiaoqiang Yan, Zirui Hu, Xuguang Zhang, Yangdong Ye.  
 Advanced Engineering Informatics, 2024. (中科院1区 SCI, IF: 8.8)
-\[[pdf](Coming soon)\]
+\[[pdf](https://doi.org/10.1016/j.aei.2024.102654)\]
 \[[code](https://github.com/yiqiaomao/ProNet)\]
 
 - ConGMC: Consistency-Guided Multimodal Clustering via Mutual Information Maximin.  
